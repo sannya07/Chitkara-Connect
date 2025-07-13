@@ -1,0 +1,16 @@
+<a href="#" className="hover:text-[#EB1C24]">Home</a>
+          <a href="#" className="hover:text-[#EB1C24]">Syllabus</a>
+          <a href="#" className="hover:text-[#EB1C24]">Performance</a>
+          <a href="#" className="hover:text-[#EB1C24]">Attendance</a>
+          <a href="#" className="hover:text-[#EB1C24]">Gatepass</a>
+          <a href="#" className="hover:text-[#EB1C24]">Queries</a>
+          <a href="#" className="hover:text-[#EB1C24]">Student Problems</a>
+          <a href="#" className="hover:text-[#EB1C24]">Manage Students</a>
+          <a href="#" className="hover:text-[#EB1C24]">Help</a>
+
+
+
+           const teacher = {
+    name: "Jane Smith",
+    email: "janesmith@example.com",
+  };
